@@ -1,0 +1,4 @@
+This Colab is for fraud detection ML model.
+Dataset taken from kaggle
+Data was cleaned & preprocessed
+Model made using logistic regression
